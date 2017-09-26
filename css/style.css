@@ -1,0 +1,139 @@
+* {margin:0; padding:0; font-family: HelveticaNeue, Helvetica; }
+
+
+p {
+	width:300px;
+}
+#img_1{
+	position:absolute;
+	top: 75px;
+	left:1020px;
+}
+#img_2{
+	position:absolute;
+	top: 420px;
+	left:650px;
+}
+.paragraph_1{
+	position:absolute;
+	top: 90px;
+	left:650px;
+	color:#cccccc;
+}
+.paragraph_2{
+	position:absolute;
+	top: 210px;
+	left:650px;
+	color:#cccccc;
+}
+.paragraph_3{
+	position:absolute;
+	top: 430px;
+	left:1020px;
+	color:#cccccc;
+}
+.paragraph_4{
+	position:absolute;
+	top: 570px;
+	left:1020px;
+	color:#cccccc;
+}
+#Easy {
+	position:absolute;
+	top: 50px;
+	left:650px;
+}
+#Full {
+	position:absolute;
+	top: 165px;
+	left:650px;
+}
+#Photo {
+	position:absolute;
+	top: 390px;
+	left:1020px;
+}
+#Menu {
+	position:absolute;
+	top: 515px;
+	left:1020px;
+}
+#Dive {
+	
+	width:1902px;
+	height:180px;
+	background-color:#34a56d;
+	position:relative;
+	top: 720px;
+	color:white;
+}
+#Quick {
+position:absolute;
+	left:670px;
+	top:45px;
+}
+#Dive, p {
+	
+}
+#button {
+	padding:0;
+	margin:0;
+	border:0;
+	overflow:hidden;
+	position:absolute;
+	left:1100px;
+	top:45px;
+	height:40px;
+
+}
+#Lorem{
+	width:500px;
+	position:absolute;
+	left:670px;
+	top:95px;
+	
+}
+body{
+	padding:0;
+	margin:0;
+}
+#Happy {
+	position:absolute;
+	left:690px;
+	top:1000px;
+}
+#foot {
+	position:absolute;
+	top:1250px;
+	background-color: #f1f1f1;
+	height:250px;
+	width:1902px;
+	color:#cccccc;
+	
+}
+#imgs {
+	position:absolute;
+	left:910px;
+	top:1150px;
+}
+#imgs1 {
+	position:absolute;
+	left:920px;
+	top:1150px;
+}
+#imgs2 {
+	position:absolute;
+	left:930px;
+	top:1150px;
+}
+#footer_text {
+	position:absolute;
+	left:530px;
+	top:25px;
+	color:#cccccc;
+}
+#img_5 {
+	position:absolute;
+	left:1130px;
+	top:25px;
+}
